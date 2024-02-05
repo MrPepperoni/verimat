@@ -6,6 +6,7 @@
 #include <string>
 #include <vector>
 #include <stdexcept>
+#include <tuple>
 
 namespace verimatlang {
 
